@@ -1,5 +1,5 @@
 <h1>Simple To-do list using Express.js<br /></h1>
-This is a replica of same project https://github.com/StephenStarc/to-do-list-vanillajs-bootstrap but using Express.js
+This is a replica of same project https://github.com/StephenStarc/to-do-list-vanillajs-bootstrap but using Express.js for backend
 <br /><br />
 <img src='Screenshot 1.png'></img>
 <h2>Tech Stack Used : <br /></h2>
